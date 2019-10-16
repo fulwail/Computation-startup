@@ -1,0 +1,39 @@
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\Расчёт стартапа.exe.config
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\Расчёт стартапа.exe
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\Расчёт стартапа.pdb
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\mysql.data.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\mysql.data.entity.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\ZedGraph.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\mysql.data.xml
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт стартапа.csprojResolveAssemblyReference.cache
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.Del.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.Form1.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.Login.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.openproject.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.project.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.Properties.Resources.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.Reg.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт стартапа.csproj.GenerateResource.Cache
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт стартапа.exe
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт стартапа.pdb
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\Расчёт стартапа.exe.config
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт стартапа.exe
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт стартапа.pdb
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\Расчёт стартапа.exe
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\Расчёт стартапа.pdb
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\mysql.data.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\mysql.data.entity.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\ZedGraph.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт стартапа.csprojResolveAssemblyReference.cache
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.Del.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.Form1.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.Login.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.openproject.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.project.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.Properties.Resources.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт_стартапа.Reg.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Release\Расчёт стартапа.csproj.GenerateResource.Cache
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\mysql.web.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\mysql.web.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\mysql.web.xml
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Release\DISNET.dll

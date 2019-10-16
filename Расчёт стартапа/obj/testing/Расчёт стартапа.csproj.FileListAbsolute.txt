@@ -1,0 +1,54 @@
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\Расчёт стартапа.exe.config
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт стартапа.csprojResolveAssemblyReference.cache
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.Del.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.Form1.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.Login.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.openproject.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.project.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.Properties.Resources.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.Reg.resources
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт стартапа.csproj.GenerateResource.Cache
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\Расчёт стартапа.exe
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\Расчёт стартапа.pdb
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\DISNET.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\mysql.data.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\mysql.data.entity.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\mysql.web.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.WindowsForms.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\ZedGraph.dll
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\mysql.data.xml
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\mysql.web.xml
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.pdb
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.xml
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.WindowsForms.pdb
+G:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.WindowsForms.xml
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт стартапа.exe
+G:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт стартапа.pdb
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\Расчёт стартапа.exe.config
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт стартапа.exe
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт стартапа.pdb
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\Расчёт стартапа.exe
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\Расчёт стартапа.pdb
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\DISNET.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\mysql.data.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\mysql.data.entity.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\mysql.web.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.WindowsForms.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\ZedGraph.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.pdb
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.xml
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.WindowsForms.pdb
+E:\Расчёт стартапа v2.0\Расчёт стартапа\bin\testing\OxyPlot.WindowsForms.xml
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт стартапа.csprojResolveAssemblyReference.cache
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.Del.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.Form1.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.Login.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.openproject.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.project.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.Properties.Resources.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт_стартапа.Reg.resources
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт стартапа.csproj.GenerateResource.Cache
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Interop.Office.dll
+E:\Расчёт стартапа v2.0\Расчёт стартапа\obj\testing\Расчёт стартапа.csproj.ResolveComReference.cache

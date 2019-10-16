@@ -1,0 +1,15 @@
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\Расчёт стартапа.exe.config
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Interop.Office.dll
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Computation_startup.csproj.ResolveComReference.cache
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт стартапа.exe
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт стартапа.pdb
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Computation_startup.csprojResolveAssemblyReference.cache
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.Del.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Computation_startup.Form1.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.Login.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.openproject.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.project.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.Properties.Resources.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.Reg.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Computation_startup.csproj.GenerateResource.Cache
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Сomputation_startup.Form1.resources

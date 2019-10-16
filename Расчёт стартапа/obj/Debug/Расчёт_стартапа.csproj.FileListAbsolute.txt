@@ -1,0 +1,26 @@
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\Расчёт стартапа.exe.config
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\Расчёт стартапа.exe
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\Расчёт стартапа.pdb
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\DISNET.dll
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\mysql.data.dll
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\mysql.data.entity.dll
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\mysql.web.dll
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\OxyPlot.dll
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\ZedGraph.dll
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\OxyPlot.pdb
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\OxyPlot.xml
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Расчёт стартапа v2.0\Расчёт стартапа\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Interop.Office.dll
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.csproj.ResolveComReference.cache
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.Del.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.Form1.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.Login.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.openproject.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.project.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.Properties.Resources.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.Reg.resources
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт_стартапа.csproj.GenerateResource.Cache
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт стартапа.exe
+C:\Расчёт стартапа v2.0\Расчёт стартапа\obj\Debug\Расчёт стартапа.pdb
